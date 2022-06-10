@@ -79,8 +79,8 @@ partial class Program
 
         while (true)
         {
-            // try
-            // {
+            try
+            {
                 switch (ReadCommand())
                 {
                     case Command.AddWorker:
@@ -119,11 +119,11 @@ partial class Program
                         ConsoleExit();
                         break;
                 }
-            // }
-            // catch (Exception ex)
-            // {
-            //     Console.WriteLine($"{ex.Message}");
-            // }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"{ex.Message}");
+            }
         }
     }
 
