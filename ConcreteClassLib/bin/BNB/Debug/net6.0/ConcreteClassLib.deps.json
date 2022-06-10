@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConcreteClassLib/1.0.0": {
+        "dependencies": {
+          "CoreInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "ConcreteClassLib.dll": {}
+        }
+      },
+      "CoreInterfaces/1.0.0": {
+        "runtime": {
+          "CoreInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConcreteClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

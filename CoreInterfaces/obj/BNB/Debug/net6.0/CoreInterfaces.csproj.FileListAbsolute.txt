@@ -1,0 +1,12 @@
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\CoreInterfaces.csproj.AssemblyReference.cache
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\CoreInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\CoreInterfaces.AssemblyInfoInputs.cache
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\CoreInterfaces.AssemblyInfo.cs
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\CoreInterfaces.csproj.CoreCompileInputs.cache
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\bin\BNB\Debug\net6.0\CoreInterfaces.deps.json
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\bin\BNB\Debug\net6.0\CoreInterfaces.dll
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\bin\BNB\Debug\net6.0\CoreInterfaces.pdb
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\CoreInterfaces.dll
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\refint\CoreInterfaces.dll
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\CoreInterfaces.pdb
+c:\Toadfolder\coding\с#_miniProj_2022\HumanResourcesDepartment\CoreInterfaces\obj\BNB\Debug\net6.0\ref\CoreInterfaces.dll
